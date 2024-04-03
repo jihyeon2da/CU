@@ -17,7 +17,7 @@
 
 body {
     color: #333;
-    min-width: 1920px;
+    min-width: 1980px;
 }
 
 a {
@@ -434,6 +434,7 @@ ul {
 
 .search .btn_search {
     width: 640px;
+
     position: relative;
 }
 
